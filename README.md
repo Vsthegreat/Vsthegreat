@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Vedant Sharma, a pre final year student at Bits Pilani Hyderabad Campus, currently interning at FoundershipHQ in Bangalore
 
 <!--
 **Vsthegreat/Vsthegreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
